@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 applied_machine_learning.Rproj
+.ipynb_checkpoints/
+__pycache__/
